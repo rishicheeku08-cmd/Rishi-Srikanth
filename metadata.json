@@ -1,0 +1,6 @@
+{
+  "name": "Utsav AI",
+  "description": "AI-powered bespoke event and wedding planner for multi-day celebrations, budgets, guest lists, and timelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
